@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ariski and I'm a Computer Science student from  University of Jember, Indonesia.</h2>
 
+
 ###
 
 <div align="center">
@@ -9,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/images/d51f9f6c8fd24e2fc91f5cc57f7ecd8b/tenor.gif?itemid=10798363"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -76,6 +77,9 @@
 </div>
 
 ###
+
+
+
 
 <div align="left">
   <a href="https://www.instagram.com/ariski_aarr" target="_blank">
